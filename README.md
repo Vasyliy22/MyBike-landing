@@ -1,4 +1,3 @@
-Thank you for choosing MyBike, the ultimate platform for bike enthusiasts. Whether you're a casual rider or a hardcore cyclist, MyBike is here to cater to all your biking needs. This landing readme will provide you with a quick overview of what MyBike has to offer and how you can make the most of our platform.
-Technologies used: HTML, CSS, SASS, and JS.
-Methodologies: BEM.
-- [DEMO LINK](https://vasyliy22.github.io/MyBike-landing/)
+VelocitEase — experience biking like never before with the MyBike landing page, designed exclusively to meet your every biking need. Discover a comprehensive overview of the exceptional features and offerings available through MyBike, empowering you to maximize your biking journey and unlock the full potential of our platform.
+Technologies used: HTML, CSS, SASS, BEM, and JS.
+    - [DEMO LINK](https://vasyliy22.github.io/VelocitEase/)
